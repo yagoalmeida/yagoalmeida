@@ -7,4 +7,4 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoalmeida&layout=compact)](https://github.com/yagoalmeida?tab=repositories)
 
 ## GitHub Stats
-[![thomasdacosta Status](https://github-readme-stats.vercel.app/api?username=yagoalmeida&show_icons=true)](https://github.com/yagoalmeida?tab=repositories)
+[![yagoalmeida Status](https://github-readme-stats.vercel.app/api?username=yagoalmeida&show_icons=true)](https://github.com/yagoalmeida?tab=repositories)
